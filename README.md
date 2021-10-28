@@ -1,4 +1,7 @@
-### Hi there 👋
+# temple of goddess arelive
+
+![](https://github-readme-stats.vercel.app/api?username=arebaka&theme=nightowl&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arebaka&theme=nightowl)
 
 <!--
 **arebaka/arebaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
