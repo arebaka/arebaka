@@ -3,8 +3,8 @@
 <p align="left">
   <img src="https://user-images.githubusercontent.com/36796676/140937667-010ba253-a119-4643-b861-9b547d703302.png" />
   <img src="https://github-readme-stats.vercel.app/api?username=arebaka&theme=nightowl&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arebaka&theme=nightowl" />
 </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arebaka&theme=nightowl" />
 
 ## skills
 ![fronend: ](https://img.shields.io/badge/frontend-FFFFFF?style=flat)
