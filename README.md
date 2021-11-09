@@ -42,7 +42,7 @@
 ![Vim](https://img.shields.io/badge/Vim-007f00?style=flat-square&logo=vim&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0066B8?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-28b8a0?style=flat-square&logo=webstorm&logoColor=white)  
-![zsh](https://img.shields.io/badge/zsh-008000?style=flat-square&logo=z-shell&logoColor=white)
+![zsh](https://img.shields.io/badge/zsh-008000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-007bff?style=flat-square&logo=docker&logoColor=white)
 
 ## contact
