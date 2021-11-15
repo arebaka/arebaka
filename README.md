@@ -54,6 +54,8 @@
 [![SoundCloud: @arelive](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/arelive)
 [![Habr: @arelive](https://img.shields.io/badge/Habr-80A1B2?style=for-the-badge&logo=habr&logoColor=white)](https://habr.com/ru/users/arelive/)
 
+![lolicount](https://count.getloli.com/get/@arebaka?theme=rule34)
+
 <!--
 **arebaka/arebaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
