@@ -4,7 +4,11 @@
   <img src="https://user-images.githubusercontent.com/36796676/140937667-010ba253-a119-4643-b861-9b547d703302.png" />
   <img src="https://github-readme-stats.vercel.app/api?username=arebaka&theme=nightowl&show_icons=true" />
 </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arebaka&theme=nightowl" />
+<details>
+  <summary>top used langs...</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arebaka&theme=nightowl" />
+</details>
+    
 
 ## skills
 ![fronend: ](https://img.shields.io/badge/frontend-FFFFFF?style=flat)
@@ -12,20 +16,17 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=flat-square&logo=svelte&logoColor=FF3E00)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)  
 ![backend: ](https://img.shields.io/badge/backend-FFFFFF?style=flat)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-3D4A55?style=flat-square&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009900?style=flat-square&logo=sass&logoColor=white)
-
+![Nginx](https://img.shields.io/badge/Nginx-009900?style=flat-square&logo=sass&logoColor=white)  
 ![desktop: ](https://img.shields.io/badge/desktop-FFFFFF?style=flat)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41C551?style=flat-square&logo=qt&logoColor=white)
-
+![Qt](https://img.shields.io/badge/Qt-41C551?style=flat-square&logo=qt&logoColor=white)  
 ![server: ](https://img.shields.io/badge/server-FFFFFF?style=flat)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
