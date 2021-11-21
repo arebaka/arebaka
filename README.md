@@ -57,7 +57,8 @@
 
 ## fund
 [![](https://img.shields.io/badge/Patreon-F96854?style=flat&logo=patreon&logoColor=white)](https://www.patreon.com/arelive)
-[![](https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/arelive)  
+[![](https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/arelive)
+[![](https://img.shields.io/badge/QIWI-FF8C00?style=flat&loto=qiwi&logoColor=white)](https://qiwi.com/p/79300704035)  
 ![](https://img.shields.io/badge/Payeer-4F95D3?style=flat&logo=payeer&logoColor=white) `P1060392965`  
 ![](https://img.shields.io/badge/BTN-000000?style=flat&logo=bitcoin&logoColor=white) `32ujXUFPjLHKAEXDarDnzV3mpo1YvaocEr`  
 ![](https://img.shields.io/badge/ETH-000000?style=flat&logo=ethereum&logoColor=white) `0xFD581Ab4DA676D0d68b0A0eafADA114557A1d824`
