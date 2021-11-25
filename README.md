@@ -1,16 +1,51 @@
-# temple of goddess arelive
+# temple of goddess arelive ^,,^
 
 <p align="left">
   <img src="https://user-images.githubusercontent.com/36796676/140937667-010ba253-a119-4643-b861-9b547d703302.png" />
   <img src="https://github-readme-stats.vercel.app/api?username=arebaka&theme=nightowl&show_icons=true" />
 </p>
 <details>
-  <summary>top used langs...</summary>
+  <summary>top used langs... -,,-</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arebaka&theme=nightowl" />
 </details>
-    
 
-## skills
+## projects >^ - ^<
+![TODO: ](https://img.shields.io/badge/TODO-FFFFFF?style=flat)
+  ![](https://img.shields.io/badge/-web%20components%20library-gray?style=flat-square)
+  ![](https://img.shields.io/badge/-captcha%20service-gray?style=flat-square)
+  ![](https://img.shields.io/badge/-platform%20of%20knowledge-gray?style=flat-square)
+  ![](https://img.shields.io/badge/-cloud%20for%20media-gray?style=flat-square)
+  ![](https://img.shields.io/badge/-dashbord%20for%20Telegram%20chats-gray?style=flat-square)
+  ![](https://img.shields.io/badge/-image%20format%20for%20TTY%20and%20colorized%20code%20dumps-gray?style=flat-square)
+  ![](https://img.shields.io/badge/-upgrade%20of%20XMPP%20protocol-gray?style=flat-square)
+  ![](https://img.shields.io/badge/-URL%20shortener%20with%20useragent%20variator-gray?style=flat-square)
+  ![](https://img.shields.io/badge/-web%20search%20engine%20for%20geeks-gray?style=flat-square)
+  ![](https://img.shields.io/badge/-simple%20markup%20language%20for%20creating%20formatting%20text-gray?style=flat-square)
+  ![](https://img.shields.io/badge/-reactive%20markup%20language-gray?style=flat-square)
+  ![](https://img.shields.io/badge/-console%20web%20browser%20using%20native%20reactivity-gray?style=flat-square)
+  ![](https://img.shields.io/badge/-MUD%20engine%20for%20messengers-gray?style=flat-square)
+  ![](https://img.shields.io/badge/-text/code%20editor%20of%20my%20dreams-gray?style=flat-square)  
+![DOING: ](https://img.shields.io/badge/DOING-FFFFFF?style=flat)
+  [![emok](https://img.shields.io/badge/emok-JS-yellow?style=flat-square)](https://github.com/arebaka/emok)
+  [![telegraf-filters](https://img.shields.io/badge/telegraf--filters-JS-yellow?style=flat-square)](https://github.com/arebaka/telegraf-filters)  
+![DONE: ](https://img.shields.io/badge/DONE-FFFFFF?style=flat)
+  [![kissvim](https://img.shields.io/badge/kissvim-Vim-brightgreen?style=flat-square)](https://github.com/arebaka/kissvim)
+  [![uncolor](https://img.shields.io/badge/uncolor-sh-green?style=flat-square)](https://github.com/arebaka/uncolor)
+  [![heil](https://img.shields.io/badge/heil-sh-green?style=flat-square)](https://github.com/arebaka/heil)
+  [![meow](https://img.shields.io/badge/meow-sh-green?style=flat-square)](https://github.com/arebaka/meow)
+  [![reset.css](https://img.shields.io/badge/reset.css-CSS-blueviolet?style=flat-square)](https://github.com/arebaka/reset.css)
+  [![logger](https://img.shields.io/badge/logger-TS-blue?style=flat-square)](https://github.com/arebaka/logger)
+  [![tgoauth](https://img.shields.io/badge/tgoauth-JS-yellow?style=flat-square)](https://github.com/arebaka/tgoauth)
+  [![stalkee](https://img.shields.io/badge/stalkee-JS-yellow?style=flat-square)](https://github.com/arebaka/stalkee)
+  [![lena](https://img.shields.io/badge/lena-JS-yellow?style=flat-square)](https://github.com/arebaka/lena)
+  [![tgbooru](https://img.shields.io/badge/tgbooru-JS-yellow?style=flat-square)](https://github.com/arebaka/tgbooru)  
+![HOLD: ](https://img.shields.io/badge/HOLD-FFFFFF?style=flat)
+  [![sode.su](https://img.shields.io/badge/-sode.su-7D80B8?style=flat-square)](https://github.com/arebaka/sode.su)
+  [![fumo](https://img.shields.io/badge/fumo-JS-yellow?style=flat-square)](https://github.com/arebaka/fumo)  
+![DROP: ](https://img.shields.io/badge/DROP-FFFFFF?style=flat)
+  ![none](https://img.shields.io/badge/Not%20Found-black?style=flat-square)
+
+## skills >,,<
 ![fronend: ](https://img.shields.io/badge/frontend-FFFFFF?style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -35,7 +70,7 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![fasm](https://img.shields.io/badge/fasm-A8BCE0?style=flat-square&logo=flat-asembler&logoColor=white)
 
-## environment
+## environment \`\` _ \`\`
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A80030?style=flat-square&logo=debian&logoColor=white)
@@ -46,7 +81,7 @@
 ![zsh](https://img.shields.io/badge/zsh-008000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-007bff?style=flat-square&logo=docker&logoColor=white)
 
-## contact
+## contact , - ,
 [![Telegram: @arelive](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arelive)
 [![sode.su: @arelive](https://img.shields.io/badge/sode.su-7D80B8?style=for-the-badge&logo=sode.su&logoColor=white)](https://sode.su/arelive)
 [![Twitter: @ctreyls](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ctreyls)
@@ -55,7 +90,7 @@
 [![SoundCloud: @arelive](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/arelive)
 [![Habr: @arelive](https://img.shields.io/badge/Habr-80A1B2?style=for-the-badge&logo=habr&logoColor=white)](https://habr.com/ru/users/arelive/)
 
-## fund
+## fund ($,,$)
 [![](https://img.shields.io/badge/Patreon-F96854?style=flat&logo=patreon&logoColor=white)](https://www.patreon.com/arelive)
 [![](https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/arelive)
 [![](https://img.shields.io/badge/QIWI-FF8C00?style=flat&loto=qiwi&logoColor=white)](https://qiwi.com/p/79300704035)  
