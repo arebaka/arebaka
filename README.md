@@ -1,15 +1,15 @@
-# temple of goddess arelive ^,,^
+# ^,,^ temple of goddess arelive ^,,^
 
 <p align="left">
   <img src="https://user-images.githubusercontent.com/36796676/140937667-010ba253-a119-4643-b861-9b547d703302.png" />
   <img src="https://github-readme-stats.vercel.app/api?username=arebaka&theme=nightowl&show_icons=true" />
 </p>
 <details>
-  <summary>top used langs... -,,-</summary>
+  <summary> -,,- top used langs... -,,- </summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arebaka&theme=nightowl" />
 </details>
 
-## projects >^ - ^<
+## >^ - ^< projects >^ - ^<
 ![TODO: ](https://img.shields.io/badge/TODO-FFFFFF?style=flat)
   ![](https://img.shields.io/badge/-web%20components%20library-gray?style=flat-square)
   ![](https://img.shields.io/badge/-captcha%20service-gray?style=flat-square)
@@ -45,7 +45,7 @@
 ![DROP: ](https://img.shields.io/badge/DROP-FFFFFF?style=flat)
   ![none](https://img.shields.io/badge/Not%20Found-black?style=flat-square)
 
-## skills >,,<
+## >,,< skills >,,<
 ![fronend: ](https://img.shields.io/badge/frontend-FFFFFF?style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -70,7 +70,7 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![fasm](https://img.shields.io/badge/fasm-A8BCE0?style=flat-square&logo=flat-asembler&logoColor=white)
 
-## environment \`\` _ \`\`
+## \`\` _ \`\` environment \`\` _ \`\`
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A80030?style=flat-square&logo=debian&logoColor=white)
@@ -81,7 +81,7 @@
 ![zsh](https://img.shields.io/badge/zsh-008000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-007bff?style=flat-square&logo=docker&logoColor=white)
 
-## contact , - ,
+## , - , contact , - ,
 [![Telegram: @arelive](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arelive)
 [![sode.su: @arelive](https://img.shields.io/badge/sode.su-7D80B8?style=for-the-badge&logo=sode.su&logoColor=white)](https://sode.su/arelive)
 [![Twitter: @ctreyls](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ctreyls)
@@ -90,13 +90,13 @@
 [![SoundCloud: @arelive](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/arelive)
 [![Habr: @arelive](https://img.shields.io/badge/Habr-80A1B2?style=for-the-badge&logo=habr&logoColor=white)](https://habr.com/ru/users/arelive/)
 
-## fund ($,,$)
-[![](https://img.shields.io/badge/Patreon-F96854?style=flat&logo=patreon&logoColor=white)](https://www.patreon.com/arelive)
-[![](https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/arelive)
-[![](https://img.shields.io/badge/QIWI-FF8C00?style=flat&loto=qiwi&logoColor=white)](https://qiwi.com/p/79300704035)  
-![](https://img.shields.io/badge/Payeer-4F95D3?style=flat&logo=payeer&logoColor=white) `P1060392965`  
-![](https://img.shields.io/badge/BTN-000000?style=flat&logo=bitcoin&logoColor=white) `32ujXUFPjLHKAEXDarDnzV3mpo1YvaocEr`  
-![](https://img.shields.io/badge/ETH-000000?style=flat&logo=ethereum&logoColor=white) `0xFD581Ab4DA676D0d68b0A0eafADA114557A1d824`
+## ($,,$) fund ($,,$)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=flat&logo=patreon&logoColor=white)](https://www.patreon.com/arelive)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/arelive)
+[![Qiwi](https://img.shields.io/badge/QIWI-FF8C00?style=flat&loto=qiwi&logoColor=white)](https://qiwi.com/p/79300704035)  
+![Payeer: ](https://img.shields.io/badge/Payeer-4F95D3?style=flat&logo=payeer&logoColor=white) `P1060392965`  
+![BTC: ](https://img.shields.io/badge/BTN-000000?style=flat&logo=bitcoin&logoColor=white) `32ujXUFPjLHKAEXDarDnzV3mpo1YvaocEr`  
+![ETH: ](https://img.shields.io/badge/ETH-000000?style=flat&logo=ethereum&logoColor=white) `0xFD581Ab4DA676D0d68b0A0eafADA114557A1d824`
 
 ![lolicount](https://count.getloli.com/get/@arebaka?theme=rule34)
 
