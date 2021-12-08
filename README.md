@@ -26,8 +26,7 @@
   ![](https://img.shields.io/badge/-MUD%20engine%20for%20messengers-gray?style=flat-square)
   ![](https://img.shields.io/badge/-text/code%20editor%20of%20my%20dreams-gray?style=flat-square)  
 ![DOING: ](https://img.shields.io/badge/DOING-FFFFFF?style=flat)
-  [![emok](https://img.shields.io/badge/emok-JS-yellow?style=flat-square)](https://github.com/arebaka/emok)
-  [![telegraf-filters](https://img.shields.io/badge/telegraf--filters-JS-yellow?style=flat-square)](https://github.com/arebaka/telegraf-filters)  
+  [![emok](https://img.shields.io/badge/emok-JS-yellow?style=flat-square)](https://github.com/arebaka/emok)  
 ![DONE: ](https://img.shields.io/badge/DONE-FFFFFF?style=flat)
   [![kissvim](https://img.shields.io/badge/kissvim-Vim-brightgreen?style=flat-square)](https://github.com/arebaka/kissvim)
   [![uncolor](https://img.shields.io/badge/uncolor-sh-green?style=flat-square)](https://github.com/arebaka/uncolor)
@@ -43,7 +42,7 @@
   [![sode.su](https://img.shields.io/badge/-sode.su-7D80B8?style=flat-square)](https://github.com/arebaka/sode.su)
   [![fumo](https://img.shields.io/badge/fumo-JS-yellow?style=flat-square)](https://github.com/arebaka/fumo)  
 ![DROP: ](https://img.shields.io/badge/DROP-FFFFFF?style=flat)
-  ![none](https://img.shields.io/badge/Not%20Found-black?style=flat-square)
+  ![none](https://img.shields.io/badge/404%20Not%20Found-black?style=flat-square)
 
 ## >,,< skills >,,<
 ![fronend: ](https://img.shields.io/badge/frontend-FFFFFF?style=flat)
