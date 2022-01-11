@@ -26,7 +26,8 @@
   ![](https://img.shields.io/badge/-MUD%20engine%20for%20messengers-gray?style=flat-square)
   ![](https://img.shields.io/badge/-text/code%20editor%20of%20my%20dreams-gray?style=flat-square)  
 ![DOING: ](https://img.shields.io/badge/DOING-FFFFFF?style=flat)
-  [![emok](https://img.shields.io/badge/emok-JS-yellow?style=flat-square)](https://github.com/arebaka/emok)  
+  [![emok](https://img.shields.io/badge/emok-JS-yellow?style=flat-square)](https://github.com/arebaka/emok)
+  [![topbot](https://img.shields.io/badge/topbot-JS-yellow?style=flat-square)](https://github.com/arebaka/topbot)  
 ![DONE: ](https://img.shields.io/badge/DONE-FFFFFF?style=flat)
   [![kissvim](https://img.shields.io/badge/kissvim-Vim-brightgreen?style=flat-square)](https://github.com/arebaka/kissvim)
   [![uncolor](https://img.shields.io/badge/uncolor-sh-green?style=flat-square)](https://github.com/arebaka/uncolor)
@@ -82,7 +83,7 @@
 
 ## , - , contact , - ,
 [![Telegram: @arelive](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arelive)
-[![sode.su: @arelive](https://img.shields.io/badge/sode.su-7D80B8?style=for-the-badge&logo=sode.su&logoColor=white)](https://sode.su/arelive)
+[![sode.su: @arelive](https://img.shields.io/badge/sode.su-7D80B8?style=for-the-badge&logo=sode.su&logoColor=white)](https://sode.su/@arelive)
 [![Twitter: @ctreyls](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ctreyls)
 [![YouTube: arelive](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCo1U2_PPPjgvJCFpAiqpiYg)
 [![Steam: @arelive](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/arelive)
