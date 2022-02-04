@@ -1,12 +1,12 @@
 # ^,,^ temple of goddess arelive ^,,^
 
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/36796676/140937667-010ba253-a119-4643-b861-9b547d703302.png" />
-  <img src="https://github-readme-stats.vercel.app/api?username=arebaka&theme=nightowl&show_icons=true" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arebaka&theme=nord_dark" alt="stats" />
 <details>
-  <summary> -,,- top used langs... -,,- </summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arebaka&theme=nightowl" />
+  <summary> -,,- details... -,,- </summary>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arebaka&theme=nord_dark" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arebaka&theme=nord_dark" alt="commits per day hour" />  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arebaka&theme=nord_dark" alt=top languages by repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arebaka&theme=nord_dark" alt="top languages by commit" />
 </details>
 
 ## >^ - ^< projects >^ - ^<
